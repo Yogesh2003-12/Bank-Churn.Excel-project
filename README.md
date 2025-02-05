@@ -23,4 +23,4 @@ This project involves analyzing **bank customer churn** using a dataset containi
 3. Analyze churn patterns by different customer attributes such as age, account type, and region.
 
 ## Contact
-For questions or collaboration opportunities, feel free to reach out to me via **[Your Email]** or connect with me on **[LinkedIn](your-linkedin-url)**.
+For questions or collaboration opportunities, feel free to reach out to me via **[yogesh281225@gmail.com]** or connect with me on **[LinkedIn](www.linkedin.com/in/yogesh-k-bab789329  )**.
